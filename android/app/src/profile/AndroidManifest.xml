@@ -2,7 +2,7 @@
     package="android/app/src/main/kotlin/com/example/disaster_ready">
 
     <application
-        android:name=".Application"
+        android:name="${applicationName}"
         android:label="Disaster Ready"
         android:icon="@mipmap/ic_launcher">
         <activity
